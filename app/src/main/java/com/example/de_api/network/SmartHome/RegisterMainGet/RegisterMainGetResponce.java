@@ -3,16 +3,29 @@ package com.example.de_api.network.SmartHome.RegisterMainGet;
 import com.google.gson.annotations.SerializedName;
 
 public class RegisterMainGetResponce {
-    @SerializedName("competitor") //TODO Хз смотрите по сваггеру
-    private String competitor;
+    @SerializedName("appId")
+    private String appId;
+    @SerializedName("competitor")
+    private String appcompetitorId;
 
-    public String getCompetitor() {
-        return competitor;
+    public RegisterMainGetResponce(String appId, String appcompetitorId){
+        this.appcompetitorId = appcompetitorId;
+        this.appId = appId;
     }
 
-    public void setCompetitor(String competitor) {
-        this.competitor = competitor;
+    public String getAppId() {
+        return appId;
     }
 
+    public void setAppId(String appId) {
+        this.appId = appId;
+    }
 
+    public String getAppcompetitorId() {
+        return appcompetitorId;
+    }
+
+    public void setAppcompetitorId(String appcompetitorId) {
+        this.appcompetitorId = appcompetitorId;
+    }
 }
