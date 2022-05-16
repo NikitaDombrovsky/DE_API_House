@@ -15,4 +15,7 @@
     <color name="nav_color">#351717</color>
     <color name="iconColor1">#E83D3D</color>
     <color name="iconColor2">#615757</color>
+
+    <color name="none">#00FFFFFF</color>
+    <color name="active">#984E4F</color>
 </resources>
