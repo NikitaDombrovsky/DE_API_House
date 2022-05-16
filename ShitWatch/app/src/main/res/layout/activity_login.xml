@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Login"
+    android:background="@drawable/background"
+    android:backgroundTint="#8f7f00"
+    android:backgroundTintMode="multiply"
+    android:theme="@style/Theme.AppCompat">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Smart House"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textColorHint="#FFFFFF"
+            android:backgroundTint="#FFFFFF"
+            android:hint="Email"
+            android:layout_marginHorizontal="16dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"
+            android:textColorHint="#FFFFFF"
+            android:backgroundTint="#FFFFFF"
+            android:hint="Password"
+            android:layout_marginHorizontal="16dp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="12dp"
+            android:text="Enter Your House"
+            android:onClick="mainscrSwitch"
+            android:textAllCaps="false"
+            android:background="@drawable/rounded_btn1"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
