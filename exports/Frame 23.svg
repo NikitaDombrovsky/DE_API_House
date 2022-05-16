@@ -1,0 +1,7 @@
+<svg id="Frame_23" data-name="Frame 23" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <circle id="Ellipse_3" data-name="Ellipse 3" cx="29.333" cy="29.333" r="29.333" transform="translate(2.667 2.667)" fill="#984e4f"/>
+  <g id="Group_9" data-name="Group 9">
+    <path id="Vector_4" data-name="Vector 4" d="M0,0H26.667" transform="translate(18.667 32)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+    <path id="Vector_5" data-name="Vector 5" d="M0,0H26.667" transform="translate(32 18.667) rotate(90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+  </g>
+</svg>

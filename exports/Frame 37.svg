@@ -1,0 +1,10 @@
+<svg id="Frame_37" data-name="Frame 37" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="Group">
+    <path id="Vector" d="M48,50.667H2.667A2.682,2.682,0,0,1,0,47.966V19.85a2.725,2.725,0,0,1,1.073-2.167L23.74.535a2.65,2.65,0,0,1,3.193,0L49.6,17.683a2.729,2.729,0,0,1,1.067,2.167V47.966A2.682,2.682,0,0,1,48,50.667Z" transform="translate(6.667 6.667)" fill="none" stroke="#984e4f" stroke-width="4"/>
+    <g id="Group-2" data-name="Group">
+      <path id="Vector-2" data-name="Vector" d="M5.333,2.667A2.667,2.667,0,1,1,2.667,0,2.667,2.667,0,0,1,5.333,2.667Z" transform="translate(29.333 43.305)" fill="#984e4f"/>
+      <path id="Vector-3" data-name="Vector" d="M0,3.35a11.443,11.443,0,0,1,16.18,0" transform="translate(23.913 37.195)" fill="none" stroke="#984e4f" stroke-width="4"/>
+      <path id="Vector-4" data-name="Vector" d="M0,5.955a20.348,20.348,0,0,1,28.767,0" transform="translate(17.62 28.422)" fill="none" stroke="#984e4f" stroke-width="4"/>
+    </g>
+  </g>
+</svg>
