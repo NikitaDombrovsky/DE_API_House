@@ -3,11 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/DE_API/app/src/main/res/drawable/change_coloe.xml" value="0.209" />
         <entry key="..\:/Users/nikit/AndroidStudioProjects/DE_API/app/src/main/res/drawable/light.xml" value="0.1225" />
         <entry key="..\:/Users/nikit/AndroidStudioProjects/DE_API/app/src/main/res/drawable/nav_selected.xml" value="0.1225" />
         <entry key="..\:/Users/nikit/AndroidStudioProjects/DE_API/app/src/main/res/drawable/thermostat.xml" value="0.209" />
         <entry key="..\:/Users/nikit/AndroidStudioProjects/DE_API/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/nikit/AndroidStudioProjects/DE_API/app/src/main/res/layout/activity_room.xml" value="0.1414141414141414" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/DE_API/app/src/main/res/layout/activity_room.xml" value="0.1" />
         <entry key="..\:/Users/nikit/AndroidStudioProjects/DE_API/app/src/main/res/layout/fragment_room_1.xml" value="0.1" />
         <entry key="..\:/Users/nikit/AndroidStudioProjects/DE_API/app/src/main/res/layout/fragment_room_2.xml" value="0.1" />
         <entry key="..\:/Users/nikit/AndroidStudioProjects/DE_API/app/src/main/res/menu/header_menu.xml" value="0.1" />

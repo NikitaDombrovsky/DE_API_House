@@ -22,22 +22,9 @@ public class RoomActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_room);
 
-       // bottomNavigationView.findViewById(R.id.bottomNav);
-       // getSupportFragmentManager().beginTransaction().replace(R.id.frameLayout, new RoomFragment_1()).commit();
-        BottomNavigationView bottomNavigationView = findViewById(R.id.bottomNav);
+        BottomNavigationView bottomNavigationView = findViewById(R.id.bottom_nav);
         NavController navController = Navigation.findNavController(this, R.id.fragmentContainerView);//fragmentContainerView
         NavigationUI.setupWithNavController(bottomNavigationView, navController);
-       // Badge=bottomNavigationView.getOrCreateBadge(R.id.message);
-        //Badge.setNumber(1000);
-//
-//        bottomNavigationView.setOnItemSelectedListener(new NavigationBarView.OnItemSelectedListener() {
-//            @Override
-//            public boolean onNavigationItemSelected(@NonNull MenuItem item) {
-//
-//
-//                return  true
-//            }
-//        });
 
     }
 }

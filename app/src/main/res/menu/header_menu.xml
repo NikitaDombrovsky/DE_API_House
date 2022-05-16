@@ -2,11 +2,12 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <item android:id="@+id/light"
+    <item android:id="@+id/roomFragment_1"
         android:title="LightMenu"
         android:icon="@drawable/light"
+        
         app:showAsAction="always"/>
-    <item android:id="@+id/thermostat"
+    <item android:id="@+id/roomFragment_2"
         android:title="ThermostatLight"
         android:icon="@drawable/thermostat"
         app:showAsAction="always"/>
