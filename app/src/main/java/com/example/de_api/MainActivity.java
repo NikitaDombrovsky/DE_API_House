@@ -4,7 +4,6 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.google.common.hash.Hashing;
 
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
