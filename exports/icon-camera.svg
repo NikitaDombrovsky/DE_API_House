@@ -1,0 +1,6 @@
+<svg id="icon_camera" data-name="icon/camera" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Group">
+    <path id="Vector" d="M38,10.01v19a2.928,2.928,0,0,1-2.85,3H2.85a2.928,2.928,0,0,1-2.85-3v-19a2.928,2.928,0,0,1,2.85-3H7.64a2.8,2.8,0,0,0,2.38-1.36l2.66-4.29A2.811,2.811,0,0,1,15.06,0h7.86A2.811,2.811,0,0,1,25.3,1.35l2.67,4.29a2.8,2.8,0,0,0,2.38,1.35h4.78A2.962,2.962,0,0,1,38,10.01Z" transform="translate(5 8)" fill="none" stroke="#fff" stroke-width="3"/>
+    <path id="Vector-2" data-name="Vector" d="M14,7A7,7,0,1,1,7,0,7,7,0,0,1,14,7Z" transform="translate(17 20.01)" fill="none" stroke="#fff" stroke-width="3"/>
+  </g>
+</svg>
