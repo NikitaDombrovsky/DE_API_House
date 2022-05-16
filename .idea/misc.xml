@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/nikit/AndroidStudioProjects/DE_API/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vispa/Desktop/DE_API_House/app/src/main/res/drawable/rounded_btn1.xml" value="0.1" />
+        <entry key="..\:/Users/vispa/Desktop/DE_API_House/app/src/main/res/layout/activity_login.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/vispa/Desktop/DE_API_House/app/src/main/res/layout/activity_main.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/vispa/Desktop/DE_API_House/app/src/main/res/layout/activity_register.xml" value="0.358695652173913" />
       </map>
     </option>
   </component>
