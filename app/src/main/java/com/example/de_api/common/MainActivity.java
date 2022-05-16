@@ -8,6 +8,8 @@ import android.os.Bundle;
 
 import com.example.de_api.R;
 
+import java.nio.charset.StandardCharsets;
+import java.security.MessageDigest;
 public class MainActivity extends AppCompatActivity {
 
     @Override

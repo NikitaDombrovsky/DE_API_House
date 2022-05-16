@@ -3,28 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/DE_API_House/app/src/main/res/drawable/bnv_sel.xml" value="0.2855" />
-        <entry key="..\:/DE_API_House/app/src/main/res/drawable/bnv_selector.xml" value="0.2855" />
-        <entry key="..\:/DE_API_House/app/src/main/res/drawable/btn_selector.xml" value="0.196" />
-        <entry key="..\:/DE_API_House/app/src/main/res/drawable/home_img.xml" value="0.2985" />
-        <entry key="..\:/DE_API_House/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.196" />
-        <entry key="..\:/DE_API_House/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.196" />
-        <entry key="..\:/DE_API_House/app/src/main/res/drawable/ic_ellipse_34.xml" value="0.196" />
-        <entry key="..\:/DE_API_House/app/src/main/res/drawable/ic_frame_37.xml" value="0.2855" />
-        <entry key="..\:/DE_API_House/app/src/main/res/drawable/ic_frame_38.xml" value="0.2855" />
-        <entry key="..\:/DE_API_House/app/src/main/res/drawable/ic_frame_39.xml" value="0.2855" />
-        <entry key="..\:/DE_API_House/app/src/main/res/drawable/ic_frame_42.xml" value="0.2855" />
-        <entry key="..\:/DE_API_House/app/src/main/res/drawable/ic_icon_camera.xml" value="0.196" />
-        <entry key="..\:/DE_API_House/app/src/main/res/drawable/nav_home.xml" value="0.2575" />
-        <entry key="..\:/DE_API_House/app/src/main/res/drawable/nav_settings.xml" value="0.1645" />
-        <entry key="..\:/DE_API_House/app/src/main/res/layout/activity_main.xml" value="0.26313405797101447" />
-        <entry key="..\:/DE_API_House/app/src/main/res/layout/activity_major_id.xml" value="0.26313405797101447" />
-        <entry key="..\:/DE_API_House/app/src/main/res/layout/fragment_home.xml" value="0.18" />
-        <entry key="..\:/DE_API_House/app/src/main/res/layout/fragment_settings.xml" value="0.2" />
-        <entry key="..\:/DE_API_House/app/src/main/res/layout/item_for_rooms.xml" value="0.18802083333333333" />
-        <entry key="..\:/DE_API_House/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
-        <entry key="..\:/DE_API_House/app/src/main/res/xml/bnv_select.xml" value="0.26313405797101447" />
         <entry key="..\:/Users/nikit/AndroidStudioProjects/DE_API/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/DE_API/app/src/main/res/layout/activity_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/DE_API/app/src/main/res/layout/activity_room.xml" value="0.1" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/DE_API/app/src/main/res/layout/fragment_room_1.xml" value="0.1" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/DE_API/app/src/main/res/layout/fragment_room_2.xml" value="0.1" />
+        <entry key="..\:/Users/nikit/AndroidStudioProjects/DE_API/app/src/main/res/menu/header_menu.xml" value="0.1" />
       </map>
     </option>
   </component>
