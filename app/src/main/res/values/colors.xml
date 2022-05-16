@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    
+    <color name="FragmentRoomTextColor1">#E83D3D</color>
+    <color name="FragmentRoomTextColor2">#2196F3</color>
+    <color name="FragmentRoomTextColor3">#9C27B0</color>
+
+    <color name="nav_color">#351717</color>
+    <color name="iconColor1">#E83D3D</color>
+    <color name="iconColor2">#615757</color>
 </resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/roomFragment_1">
+    <fragment
+        android:id="@+id/roomFragment_1"
+        android:name="com.example.de_api.RoomFragment_1"
+        android:label="Light"
+        tools:layout="@layout/fragment_room_1" />
+    <fragment
+        android:id="@+id/roomFragment_2"
+        android:name="com.example.de_api.RoomFragment_2"
+        android:label="Thermostat"
+        tools:layout="@layout/fragment_room_2" />
+</navigation>
